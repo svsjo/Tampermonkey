@@ -7,6 +7,8 @@
 // @match        https://dep19.die-staemme.de/*screen=map*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=die-staemme.de
 // @grant        none
+// @updateURL    https://github.com/svsjo/Tampermonkey/raw/main/C19Korris.user.js
+// @downloadURL  https://github.com/svsjo/Tampermonkey/raw/main/C19Korris.user.js
 // ==/UserScript==
 
 var win = typeof unsafeWindow != 'undefined' ? unsafeWindow : window;
