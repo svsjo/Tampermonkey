@@ -31,7 +31,7 @@ function addLinesToMap(){
     addPolygon(430, 12, 565, 30, "Keen", "blue", 45);
     addPolygon(425, 12, 552, 30, "Tik", "blue", 75);
     addPolygon(420, 12, 539, 30, "Alex", "blue", 80);
-    addPolygon(420, 12, 526, 30, "Alexand", "blue", 85);
+    addPolygon(420, 12, 526, 30, "Alexander", "blue", 85);
 
     addPolygon(420, 12, 513, 30, "Fear", "blue", 90);
     addPolygon(420, 12, 500, 30, "Bergi", "blue", 90);
