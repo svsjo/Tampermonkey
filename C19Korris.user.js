@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         C19 Korris WInkel
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://dep19.die-staemme.de/*screen=map*
@@ -30,7 +30,7 @@ function addLinesToMap(){
     addPolygon(461, 12, 580, 30, "Lorenzo", "blue", 5);
     addPolygon(448, 12, 580, 30, "Maple", "yellow", 10);
     addPolygon(435, 12, 575, 30, "Pippi", "blue", 15);
-    addPolygon(430, 12, 565, 30, "Keen", "blue", 45);
+    addPolygon(430, 12, 565, 30, "Liz Keen", "blue", 45);
     addPolygon(425, 12, 552, 30, "Tik", "blue", 75);
     addPolygon(420, 12, 539, 30, "Alex", "blue", 80);
     addPolygon(420, 12, 526, 30, "Alexander", "blue", 85);
