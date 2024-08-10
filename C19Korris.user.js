@@ -37,6 +37,24 @@ function addLinesToMap(){
 
     addPolygon(420, 12, 513, 30, "Fear", "blue", 90);
     addPolygon(420, 12, 500, 30, "Bergi", "blue", 90);
+
+    addPolygon(420, 10, 489, 30, "Drizzt", "blue", 90);
+    addPolygon(420, 10, 478, 30, "Riddle", "blue", 90);
+
+    addPolygon(420, 10, 467, 30, "Oberlin", "blue", 95);
+    addPolygon(422, 10, 456, 30, "sharkbit", "blue", 100);
+    addPolygon(427, 10, 446, 30, "Afrax", "blue", 110);
+    addPolygon(433, 10, 438, 30, "amrita", "blue", 120);
+
+    addPolygon(440, 10, 430, 30, "Steinfaust", "blue", 135);
+
+    addPolygon(448, 10, 424, 30, "Beer", "blue", 150);
+    addPolygon(457, 10, 418, 30, "carsten", "blue", 160);
+    addPolygon(466, 10, 412, 30, "olla", "blue", 170);
+    addPolygon(477, 10, 410, 30, "Thorgean", "blue", 175);
+
+    addPolygon(488, 10, 410, 30, "Exxez", "blue", 180);
+    addPolygon(499, 10, 410, 30, "lemme", "blue", 180);
 }
 
 function addPolygon(x1, width, y1, height, player, color, rotation){
