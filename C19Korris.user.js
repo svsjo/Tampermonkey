@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         C19 Korris WInkel
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        https://dep19.die-staemme.de/*screen=map*
